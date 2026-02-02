@@ -4,3 +4,4 @@ This is my first GitHub repository.
 Learning GitHub remotes and workflow.
 Edited directly on GitHub
 Remote change test – DO NOT DELETE
+Terminal clone practice successful
